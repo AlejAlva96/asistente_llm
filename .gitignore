@@ -1,0 +1,19 @@
+# Ignorar todos los entornos virtuales
+venv/
+.venv/
+
+# Ignorar todos los archivos .env del proyecto
+*.env
+
+# Ignorar carpetas específicas
+backend/__pycache__/
+frontend/node_modules/
+
+# Ignorar archivos comunes
+*.log
+*.pyc
+*.DS_Store
+
+# Ignorar VSCode o PyCharm config
+.vscode/
+.idea/
