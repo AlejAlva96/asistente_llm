@@ -1,3 +1,3 @@
 ### Esto es el main
 
-pepe = 75
+pepe = 7
